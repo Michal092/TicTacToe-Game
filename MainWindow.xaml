@@ -1,0 +1,11 @@
+﻿<Window x:Class="Tic_Tac_Toe.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tic_Tac_Toe"
+        mc:Ignorable="d"
+        Title="Tic Tac Toe" FontFamily="Arial Black" FontSize="15" FontWeight="Bold" Height="350" Width="330" Background="Black" ResizeMode="NoResize">
+    <Grid x:Name="myGrid" Width="290" Height="290" Background="Cornsilk">
+    </Grid>
+</Window>
